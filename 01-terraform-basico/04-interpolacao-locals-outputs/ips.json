@@ -1,0 +1,4 @@
+{
+  "public" : ["localhost", "test", "terraform"],
+  "private": ["255.255.255.0", "13.324.324.22"]
+}
